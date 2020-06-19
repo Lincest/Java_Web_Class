@@ -2,9 +2,7 @@
 
 
 
-第一次作业 : 
-
-## 实现 fibonacci 数列，要求(以Java为例)如下
+## 第一次作业 : 实现 fibonacci 数列，要求(以Java为例)如下
 
 - 不要提交依赖包等文件
 - 分两次提交，第一次提交README.md，第二次提交代码
@@ -25,4 +23,7 @@ Fibonacci.of(5) == 5
 - 提交到自己的github
 - 将作业的github地址写在答案中
 
-作业地址 : 
+**作业地址** :  [./src/fibonacci.java]() 
+
+
+
