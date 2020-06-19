@@ -23,7 +23,7 @@ Fibonacci.of(5) == 5
 - 提交到自己的github
 - 将作业的github地址写在答案中
 
-**作业地址** :  [./blob/master/src/fibonacci.java]() 
+**作业地址** :  ./src/fibonacci.java
 
 
 
