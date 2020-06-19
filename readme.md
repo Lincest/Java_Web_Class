@@ -23,7 +23,6 @@ Fibonacci.of(5) == 5
 - 提交到自己的github
 - 将作业的github地址写在答案中
 
-<<<<<<< HEAD
 **实现** : 
 
 ```java
@@ -44,11 +43,7 @@ public class fibonacci {
 ```
 
 
-
-**作业地址** :  [./src/fibonacci.java]() 
-=======
 **作业地址** :  ./src/fibonacci.java
->>>>>>> 71824b49e84268a79c2cbc51e1037225f9604f92
 
 
 
