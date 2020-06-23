@@ -49,7 +49,7 @@ public class com.work1.Fibonacci.fibonacci {
 
 ## 第二次作业 : 德州扑克
 
-本作业采用TDD测试驱动开发
+本作业采用TDD测试驱动开发, JUnit4作为单元测试框架
 
 ![](https://cdn.jsdelivr.net/gh/Lincest/PicGoStorage@master/img/20200623224259.png)
 
